@@ -1,0 +1,53 @@
+---
+layout: post
+title:  Purple Urchin
+date:   2014-07-12 09:30:32
+categories: project
+service: Print &amp; Business Consulting
+image: project-purple-urchin-01.jpg 
+---
+  <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h2>Purple Urchin</h2>
+            <h3>Plans for Growth</h3>
+            <p>
+           Purple Urchin grew quickly from a damp, dark basement to a storefront and production space in Ottawa’s Chinatown. Their handmade soaps were a big hit at their store, but they wanted to increase the wholesale part of their business. 
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-purple-urchin-01.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6" >
+            <img src="{{ "/img/project-purple-urchin-02.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Targeted Wholesale Campaign</h3>
+            <p>
+            We crafted a cheeky brochure that captured the quirkiness of the people and products of Purple Urchin. Each product is given a detailed description, but this isn’t your average product listing. We included games and puzzles entertain anyone who picks up the brochure and has a few minutes to spare.   
+            </p>
+          </div>
+        </div>
+           <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Niche Business/Management Consulting</h3>
+            <p>
+             In order to meet the increased demand for wholesale products we completely revamped Purple Urchin's supply chain management system. This allowed Purple Urchin to increase efficiency, meet demand and even hire new employees.
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-purple-urchin-03.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6" >
+            <img src="{{ "/img/project-purple-urchin-04.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Growth</h3>
+            <p>
+            Since working with Jackpine, Purple Urchin’s brand has grown. The wholesale side of their business – and their ability to keep up with the demand – is going up. They’re expanding and Jackpine is designing their retail space to accommodate the  higher demand.   
+            </p>
+          </div>
+        </div> 

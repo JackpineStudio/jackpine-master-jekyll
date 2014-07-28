@@ -1,0 +1,15 @@
+---
+layout: defaultmenu
+---
+
+<div class="ptop" id="blog-page">
+<div class="container">
+{% for post in site.categories.blog %}
+<div class="row project">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+		<a href="{{post.url | prepend: site.baseurl }}">{{ post.title }} </a>
+	</div>
+</div>
+{% endfor %}
+</div>
+</div>

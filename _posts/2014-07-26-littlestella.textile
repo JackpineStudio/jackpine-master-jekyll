@@ -1,0 +1,53 @@
+---
+layout: post
+title:  Little Stella
+date:   2014-07-08 09:30:32
+categories: project
+service: Music Video
+image: project-little-stella-01.jpg 
+---
+<div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h2>Little Stella</h2>
+            <h3>Making Music Videos.</h3>
+            <p>
+            An up and coming Ottawa band needed a music video for their song “Bluff.” One of our first projects, we immediately knew that at the heart of any song, band or brand is a story. 
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-little-stella-01.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6" >
+            <iframe width="100%" height="500" src="//www.youtube.com/embed/fUWxWy6af9c" frameborder="0" allowfullscreen></iframe>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Subversive or Just Plain Silly?</h3>
+            <p>
+            We came up with a concept for the upbeat and melodic song that made fun of the rock n’ roll stereotype by depicting the band members as champagne-swilling, fur-wearing dilettantes drunk on their own fame—as a children’s musical act.  
+            </p>
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>A Community Effort</h3>
+            <p>
+            We pulled together business from around the city to contribute to the making of the video. Sponsers include: Coral Sparks, Lunch, Beau’s All Natural Brewing Company, Auntie Loo’s Treats, Orpheus Musical Theatre, Sock ‘n’ Buskin Musical Theatre, Academie de la Capitale, Shenkman Centre, Orleans Little Players, Herd Magazine, and Top of the World Skateshop
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-little-stella-03.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+        </div>
+      <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6" >
+            <img src="{{ "/img/project-little-stella-04.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Organic Popularity </h3>
+            <p>
+            Since the video was posted to Youtube it has reached over 11,000 views. It is by far the band’s most popular video. It is also accompanied by a behind the scenes video.  
+            </p>
+          </div>
+        </div>

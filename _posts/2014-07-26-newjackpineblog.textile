@@ -1,0 +1,11 @@
+---
+layout: blog
+title:  Checkout the New Jackpine Blog!
+date:   2014-07-26 09:30:32
+categories: blog
+---
+h2. Woot Woot!
+This is a pargraph! It's so sweet. Like, the sweetest thing of all time.
+
+
+

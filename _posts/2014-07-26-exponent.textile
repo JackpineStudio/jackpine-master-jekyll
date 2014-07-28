@@ -1,0 +1,43 @@
+---
+layout: post
+title:  Exponent
+date:   2014-07-11 09:30:32
+categories: project
+service: Motion Graphic
+image: project-exponent-01.jpg 
+---
+<div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h2>Exponent Investment</h2>
+            <h3>Connecting with Investors</h3>
+            <p>
+            Exponent Investment Management offers a personalized service and tailored finanacial planning that larger financial institutions simply cannot match. They needed a way to convey this message in a way that would be highly engaging and not bore or scare viewers away with stats and figures.
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-exponent-01.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6" >
+            <iframe width="100%" height="500" src="//www.youtube.com/embed/AZB2crOBb14" frameborder="0" allowfullscreen></iframe>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Strategic Messaging</h3>
+            <p>
+            Our solution: a friendly motion graphic piece that juxtiposes the frustrations of badly fitting, pre-designed products with the human experience of having someone listen to your exact needs and create something especially for you.  
+            </p>
+          </div>
+        </div>
+           <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Brand Development</h3>
+            <p>
+             Exponent now has a distinct voice of its own that sets it apart from the competition. They’re unique brand of humour and no-nonsense financial advice means that they have a way of talking to the world that helps people connect with the brand and its services.  
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-exponent-02.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+        </div> 
+

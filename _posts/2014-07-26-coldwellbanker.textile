@@ -1,0 +1,55 @@
+---
+layout: post
+title:  Coldwell Banker
+date:   2014-07-04 09:30:32
+categories: project
+service: Digital Campaign
+image: project-coldwell-banker-01.jpg 
+---
+ <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h2>Coldwell Banker First Ottawa Realty</h2>
+            <h3>Traditional business. New ideas.</h3>
+            <p>
+            Anyone who talks about Coldwell Banker First Ottawa Realty talks about honesty, integrity and their commitment to developing dedicated, trustworthy sales representatives. They also mention Ross Webley, the straight-shooting, no-nonsense Broker/Owner who has shaped the company’s values for the past 20 years. 
+            </p>
+            <p>Visit the site <a href="http://www.realtalkwithross.com/" target="_blank">http://www.realtalkwithross.com/</a></p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <a href="http://www.realtalkwithross.com/" target="_blank"><img src="{{ "/img/project-coldwell-banker-01.jpg" | prepend: site.baseurl }}" alt=""></a>
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+
+            <a href="http://www.realtalkwithross.com/" target="_blank"><img src="{{ "/img/project-coldwell-banker-03.jpg" | prepend: site.baseurl }}" alt=""></a>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Integrated Digital Campaign</h3>
+            <p>
+            To increase exposure for First Ottawa Realty we developed a multi-level campaign that brought Ross and his team out into the spotlight. It starts with the Realtalk with Ross blog. A place for Ross to give people straight talk about the real estate business. 
+            </p>
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>A Big, Hardworking Idea</h3>
+            <p>
+            Our biggest challenge was finding ways to showcase the company and Ross’s values without overshadowing the sales representatives who work hard to make the company great. So we developed the 25/8 video series to give a behind-the-scenes documentary style look at life at First Ottawa Realty, where everyone is given some time in front of the camera.
+            </p>
+          </div>
+            <div class="col-xs-12 col-sm-6 col-md-6" >
+              <iframe width="100%" height="500" src="//www.youtube.com/embed/yT3HOXG5z_M" frameborder="0" allowfullscreen></iframe>
+          </div>         
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <a href="http://www.realtalkwithross.com/" target="_blank"><img src="{{ "/img/project-coldwell-banker-04.jpg" | prepend: site.baseurl }}" alt=""></a>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Interactive Web</h3>
+            <p>
+            Ross might be a straight shooter and a serious professional, but that doesn’t mean he has no sense of humour. Our splash page introduces Ross the character, whose “straight shooting” point follows your cursor around the site as you choose from videos, the blog and social media channels.
+            </p>
+          </div>
+        </div>

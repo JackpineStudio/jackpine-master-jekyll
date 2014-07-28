@@ -1,0 +1,94 @@
+---
+layout: post
+title:  Alterna
+date:   2014-07-26 09:30:32
+categories: draft
+service: Web
+image: project-alterna-01.jpg 
+---
+ <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h2>Alterna</h2>
+            <h3>Brand Strategy for Banks</h3>
+            <p>
+            Alterna Savings is the oldest credit union in Ontario. It has been around since 1908, but it has been going through a rapid transformation over the past few years. They needed to tell the story of this transformation in a way that honours their history and projects their values into the future. 
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-alterna-01.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6" >
+            <img src="{{ "/img/project-alterna-10.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Unique Brand Challenge</h3>
+            <p>
+            Part of Alterna’s transition involved acquiring the Ottawa Women’s Credit Union, an institution with a rich history that Alterna wanted to honour. We oversaw the branding of this transition, preserved the legacy of OWCU inside the branch, and created the Alterna Centretown Community Branch. This transition kept our spatial design team busy with a unique and challenging project.
+            </p>
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Spatial Design </h3>
+            <p>
+            Working with our team of designers we transformed the interior of the branch, considering each aspect of the banking experience from a human perspective. We designed the Centretown Community Branch to be a pleasure to visit, the kind of place that people wouldn’t mind spending a few extra minutes. Our goal was simple: animate street level interaction for pedestrians, and create really cool 3D signage.
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-alterna-03.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-alterna-04.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Handmade, Illustrated Map</h3>
+            <p>
+            To highlight Alterna’s commitment to the communities that it serves we outfitted the interior portion of Centretown Community’s drop window sign with a detailed hand drawn map that reflects the beauty and eccentricity of Ottawa’s Centretown neighbourhood. The map gained a significant amount of attention and was the subject of its own news story.
+            </p>
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>In Branch Media</h3>
+            <p>
+            To inform Alterna’s members of new products, services and locations we developed a series of in branch ads to be played on video screens. Clear and concise, each ad showcases a specific element of Alterna’s brand, from new branches in Quebec to community involvement.
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <iframe width="100%" height="500" src="//www.youtube.com/embed/s5OwGTm61Q4" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-alterna-06.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Value Proposition Creation</h3>
+            <p>
+            As the oldest credit union in Ontario Alterna has history of building strong communities through helping its members achieve their financial goals. We crafted a statement that articulates Alterna’s values and how they have continued to stand for the same ideals that began in 1908.
+            </p>
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Strategy Affecting Culture</h3>
+            <p>
+            Since working with Jackpine Alterna has opened a flagship branch in the heart of Ottawa’s Centretown. With furniture sourced from local producers and artwork from local artists Alterna demonstrates that its commitment to community is no mere marketing tactic, it is something that has been written in the brand’s DNA for over 100 years.
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-alterna-07.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-alterna-08.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-alterna-09.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+        </div>

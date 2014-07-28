@@ -1,0 +1,77 @@
+---
+layout: post
+title:  SuzyQ
+date:   2014-07-01 09:30:32
+categories: project
+service: Branding
+image: project-suzyq-01.jpg 
+---
+
+ <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h2>SuzyQ</h2>
+            <h3>City-Wide Sensation </h3>
+            <p>
+            Hintonburg knows that the best place in town to get fresh, homemade doughnuts with a range of unique flavours - Maple Bacon, Blue Vanilla Fruit Loop, Raspberry Cassis, Coconut with Kaffir Lime - is the little shack on Wellington St. W. But the folks over at Suzy Q Doughnuts wanted to share their sweet treats with the rest of Ottawa, and needed a cohesive brand that would help take them do it.
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-suzyq-01.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6" >
+            <img src="{{ "/img/project-suzyq-02.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Ideas Inspired by Process</h3>
+            <p>
+            That’s where Jackpine came in. We broke their brand down to its essence: the handcrafted doughnut, made with quality local ingredients – arriving at the ethos that for SuzyQ, the doughnut is the brand. We took the circular doughnut and used the punched-out middle to make the Q in SuzyQ mark. From there, we developed business cards, t-shirts and packaging.
+            </p>
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Cards with Utility</h3>
+            <p>
+            Business cards are often an afterthought: just slap a logo, a picture, and some contact information and you’re done. But what if they could serve another purpose? Most SuzyQ customers took business cards when they were giving doughnuts to a friend. So we transformed the Suzy Q business card into something that will help customers brighten someone’s day. 
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-suzyq-03.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-suzyq-06.jpg" | prepend: site.baseurl }}" alt="">
+
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Sweet Swag</h3>
+            <p>
+            With names like Wündercrunch, Blue Vanilla Fruit Loop and Sugar Munkki, SuzyQ’s doughnut names already create strong visual imagery. When it came time to design SuzyQ T-shirts, we decided to play with the names. Munkki becomes a monkey on the Japanese-inspired Sugar Munkki T-shirt. 
+            </p>
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Packaging</h3>
+            <p>
+            SuzyQ is growing from its Hintonburg shack to grocery shelves throughout Ottawa. They needed a new box for the mini versions of the doughnut they're planning on distributing. We created packaging and a mini-brand for these little Suzy Qtees based around a fun, Qtee character we created. 
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-suzyq-05.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-suzyq-07.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Results</h3>
+            <p>
+            SuzyQ has grown into one of the premier food stops in the city – with people from outside of the city driving in just to pick up a box. Now they have great brand that will help propel their growth into the future. 
+            </p>
+          </div>
+        </div>

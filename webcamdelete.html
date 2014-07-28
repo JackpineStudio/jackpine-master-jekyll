@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Global Skin Project</title>
+<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/global.css" rel="stylesheet">
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+<div id="skin-box">
+</div>
+<section id="header">
+    <h1 id="global-title">Place your arm in front of your web camera and hit the big red button to join the global skin project.</h1>
+</section>
+<section id="camera">
+	<div id="camera_box">
+	</div>
+</section>
+<section id="result">
+	<h3>Result</h3>
+	<div id="result-box">
+	<img id="result-img" />
+	</div>
+</section>
+<section id="button">
+<nav>
+ <ul class="nav">
+        <li>
+          <a id="gogo" href="#">
+            <span class="go"><i class="glyphicon glyphicon-camera"></i></span>
+          </a>
+      	</li>
+</nav>
+</section>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/say-cheese.js"></script>
+	<script>
+		var sayCheese = new SayCheese('#camera_box', { snapshots: true });
+		$('#gogo').on('click',function(e){
+			sayCheese.takeSnapshot();
+	
+			e.preventDefault();
+		});
+
+sayCheese.on('start', function() {
+ // do something when started
+});
+
+sayCheese.on('error', function(error) {
+ // handle errors, such as when a user denies the request to use the webcam,
+ // or when the getUserMedia API isn't supported
+});
+
+sayCheese.on('snapshot', function(snapshot) {
+  // do something with a snapshot canvas element, when taken
+	console.log($(snapshot));
+	var dataurl = snapshot.toDataURL();
+	console.log(dataurl);
+	$('#skin-box').append('<img class="skin-img" src="' + dataurl + '" />');
+});
+sayCheese.start();
+
+	</script>
+  </body>
+</html>

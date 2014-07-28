@@ -1,0 +1,44 @@
+---
+layout: post
+title:  Hydropothecary
+date:   2014-07-03 09:30:32
+categories: project
+service: Branding
+image: project-hydropothecary-01.jpg 
+---
+
+ <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h2>Hydropothecary</h2>
+            <h3>Strategic Brand Positioning</h3>
+            <p>
+            The emerging medical marijuana market offers an opportunity for new brands to emerge. With new clients and a disappearing stigma around the product there are a number of diverse demographics purchasing marijuana. Our challenge was to brand a company that wanted to stand out as a luxury brand for a product not traditionally associated with luxury. 
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-hydropothecary-01.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6" >
+            <img src="{{ "/img/project-hydropothecary-02.jpg" | prepend: site.baseurl }} " alt="">
+
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Inspired by Nature</h3>
+            <p>
+            Avoiding marijuana culture’s traditional imagery we crafted a brand based on the essence of the product. In fact, while weed culture celebrates the “pot leaf” as its symbol, the drug’s effect actually comes from the buds and the flower. We developed a mark based around the real source of marijuana’s potency while creating a luxury brand where people least expect it. 
+            </p>
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Effective and Fast</h3>
+            <p>
+            In a very short period of time Hydropothecary went from an idea to a fully articulated brand with a logo, a slogan and a detailed style guide. From this position Hydropothecary was able to expose their  brand to potential investors, partners and employees in order to establish their business. 
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-hydropothecary-03.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+        </div>

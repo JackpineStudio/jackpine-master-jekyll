@@ -1,0 +1,44 @@
+---
+layout: post
+title:  CBFA
+date:   2014-07-15 09:30:32
+categories: project
+service: Web
+image: project-canadian-boreal-forest-agreement-01.jpg 
+---
+<div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h2>Canadian Boreal Forest Agreement</h2>
+            <h3>A landmark agreement</h3>
+            <p>
+            The Canadian Boreal Forest Agreement is a landmark piece of environmental policy. It is the result of an unprecedented cooperation between industry and environmentalists to protect Canada’s boreal forests while still growing the economy.  
+            </p>
+            <p>View all the videos <a href="http://canadianborealforestagreement.com/" target="_blank">http://canadianborealforestagreement.com/</a></p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <a href="http://canadianborealforestagreement.com/" target="_blank"><img src="{{ "/img/project-canadian-boreal-forest-agreement-01.jpg" | prepend: site.baseurl }}" alt=""></a>
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6" >
+            <iframe width="100%" height="500" src="//www.youtube.com/embed/XvggXtpz8A0?list=UU6PjkYJ9Qsx1FeM870tXlZQ" frameborder="0" allowfullscreen></iframe>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>A challenge</h3>
+            <p>
+            Although the agreement is a groundbreaking effort, It can be a challenge to get people excited about forestry. So CBFA embarked on an education tour, teaching students and stakeholders about the importance of their work. We followed them every step of the way, documenting the tour and the group’s progress. 
+            </p>
+          </div>
+        </div>
+           <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>A story</h3>
+            <p>
+             We produced a series of videos for the CBFA website that told the story of the agreement. We used visuals and voices to humanize to make the discussion more engaging and accessible, and turned a series of lectures into a grand narrative for this great agreement.  
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <a href="http://canadianborealforestagreement.com/" target="_blank"><img src="{{ "/img/project-canadian-boreal-forest-agreement-02.jpg" | prepend: site.baseurl }}" alt=""></a>
+          </div>
+        </div> 
+

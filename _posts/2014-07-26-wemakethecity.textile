@@ -1,0 +1,54 @@
+---
+layout: post
+title:  We Make The City
+date:   2014-07-13 09:30:32
+categories: project
+service: Branding &amp; Web
+image: project-we-make-the-city-01.jpg 
+---
+ <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h2>Artengine</h2>
+            <h3>We Make the City!</h3>
+            <p>
+           To promote this unique festival, which used the city of Ottawa as both the venue and the canvas for 5 days of art projects, we knew we needed the fabric of the city to be woven into everything we created.
+            </p>
+            <p>Visit the site <a href="http://wemakethecity.ca/" target="_blank">http://wemakethecity.ca/</a></p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <a href="http://wemakethecity.ca/" target="_blank"><img src="{{ "/img/project-we-make-the-city-01.jpg" | prepend: site.baseurl }}" alt=""></a>
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6" >
+            <iframe width="100%" height="500" src="//www.youtube.com/embed/XrbTg3vgVqk" frameborder="0" allowfullscreen></iframe>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Art Installations</h3>
+            <p>
+            We decided to take up the spirit of this festival for our marketing campaign, turning it into a guerilla art installation of our own. To link the digital and human worlds we took computer keyboards and turned them into our billboards by painting them yellow, placing them out of context on trees, fences and walls and added our own custom messages with the keys.       
+            </p>
+          </div>
+        </div>
+           <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Website</h3>
+            <p>
+             The web component integrated live feeds from 12 different traffic cameras throughout the city. The result was a website that changed as the city did: real-time images of the city’s busy intersections were updated with every refresh.
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-we-make-the-city-03.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6" >
+            <img src="{{ "/img/project-we-make-the-city-04.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Results</h3>
+            <p>
+            The bright yellow keyboards placed in the paths of people’s daily lives proved to be enough of an interruption that they couldn’t help but take a photo to share on social media. The generative website demonstrated the way people change and make their city.    
+            </p>
+          </div>
+        </div> 

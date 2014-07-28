@@ -1,0 +1,43 @@
+---
+layout: post
+title:  Gymnut
+date:   2014-07-10 09:30:32
+categories: project
+service: Branding, UX & UI
+image: project-gymnut-01.jpg 
+---
+<div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h2>Gymnut</h2>
+            <h3>Creating the brand</h3>
+            <p>
+            Gymnut came to us because they needed help branding a new app they were developing for Android and iOS. The software, geared toward personal trainers and gym members alike, is a tool for managing workouts and diet plans.
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-gymnut-01.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6" >
+            <img src="{{ "/img/project-gymnut-02.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Visualising the app</h3>
+            <p>
+           The app, which connects personal trainers and gym members, needed a visual identity. We developed colour schemes, icons, and a slick UI that made it easy to share routines and meal plans and track progress.
+            </p>
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>The brand in the wild</h3>
+            <p>
+            Today Gymnut has a living brand that they are using to further develop their business. They continue to develop a smartphone app that is useful and intuitive for both personal trainers and gym members. 
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-gymnut-03.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+        </div>
+18861886189018941898

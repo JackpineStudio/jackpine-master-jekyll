@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<div class="container" id="front-page">
+      <div class="row">
+        <div class="col-xs-12 col-sm-11 value">
+          <h2>{{ site.description }}</h2>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-sm-3 view-work">
+          <a href="{{ "/work" | prepend: site.baseurl }}" id="link">Check out our work</a>
+        </div>
+      </div>
+    </div>
+    <video autoplay="autoplay" loop>
+      <source src="{{ "/video/jackpine-bg-video.mp4" | prepend: site.baseurl }}" type="video/mp4">
+      <source src="{{ "/video/jackpine-bg-video.webmhd.webm" | prepend: site.baseurl }}" type="video/webm">
+      <source src="{{ "/video/jackpine-bg-video.oggtheora.ogv" | prepend: site.baseurl }}" type="video/ogg">
+    Your browser does not support the video tag.
+    </video>
+

@@ -1,0 +1,56 @@
+---
+layout: post
+title:  Chinatown BIA
+date:   2014-07-05 09:30:32
+categories: project
+service: Print
+image: project-chinatown-bia-01.jpg 
+---
+  <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h2>Chinatown BIA Ottawa</h2>
+            <h3>New Energy. New Approach.</h3>
+            <p>
+            Ottawa’s Chinatown has always been known as a culinary and cultural destination. But over the past few years, it’s also become a hotbed for the city’s artistic community. The Chinatown BIA knew they needed to reach out to a younger generation with a new approach.  
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-chinatown-bia-01.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6" >
+            <img src="{{ "/img/project-chinatown-bia-02.jpg" | prepend: site.baseurl }}" alt="">
+
+
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Experimental Mark Creation</h3>
+            <p>
+            We began by creating a new mark that captured the excitement and energy of Chinatown. We took the Chinatown mark and splashed it overtop of a traditional ornament found in almost every shop and restaurant in the neighbourhood.
+            </p>
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Inspired by Place</h3>
+            <p>
+            The brochure reflects the neighbourhood’s past—and its future. We drew inspiration from the creativity that is already bubbling up in the neighbourhood, and designed a map that showcased the series of Ottawa School of Art murals that dot the cityscape.
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-chinatown-bia-03.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-chinatown-bia-04.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>The Finer Details</h3>
+            <p>
+            We playfully referenced the area’s roots with witty fortune cookies that reveal the many sides of living in Chinatown, and included a checklist of things one must do when visiting the ‘hood.
+            </p>
+          </div>
+        </div>
+

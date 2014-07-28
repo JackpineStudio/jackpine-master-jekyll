@@ -1,0 +1,32 @@
+---
+layout: post
+title:  Amy Robichaud
+date:   2014-07-07 09:30:32
+categories: project
+service: Branding,Web
+image: project-amy-robichaud-01.jpg 
+---
+ <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h2>Amy Robichaud</h2>
+            <h3>Public Figure Branding</h3>
+            <p>
+          Amy Robichaud needed a brand that reflected the positive and forward-thinking attitude she brings to her bid for the Liberal nomination in the federal riding of Scarborough Southwest.  
+            </p>
+            <p>View the site <a href="http://www.amyrobichaud.ca/" target="_blank">http://www.amyrobichaud.ca/</a></p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <a href="http://www.amyrobichaud.ca/" target="_blank"><img src="{{ "/img/project-amy-robichaud-01.jpg" | prepend: site.baseurl }}" alt=""></a>
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6" >
+            <img src="{{ "/img/project-amy-robichaud-02.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Fresh Perspective</h3>
+            <p>
+            In an age of cynical, negative politics, we needed to find a way to articulate Amy’s mission of bringing a politics of collaboration and cooperation to her riding—and the capital. We crafted a visual identity, custom typeface and digital presence that helps communicate her values to potential voters.       
+            </p>
+          </div>
+        </div>  

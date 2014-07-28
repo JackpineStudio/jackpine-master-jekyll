@@ -1,0 +1,40 @@
+work.html
+	- add banner
+	- export the photos
+		x beyond the pale
+		X coldwell banker
+		X little stella
+		- ottawa school of art
+		x exponent
+		- purple urchin
+
+	- crop the photos to 720x720
+		- beyond the pale
+		- coldwell banker
+		- little stella
+		- ottawa school of art
+		- exponent
+		- purple urchin
+	- union
+		- but the card
+		
+	- fucked/missing photos for projects
+		- project-little-stella-04.jpg displays weird
+		- project-ottawa-school-of-art-02.jpg displays weird
+		- project-exponent-03.jpg appears to be missing	
+		- project-little-stella-02.jpg is missing
+		- project-coldwell-banker-02.jpg is missing
+
+
+	Copy/image match up problesm
+		- Coldwell Banker: copy and images don't really match up in the last section.copy talks about the humorous landing page, but image is of the blog.  picture should be of the landing page, preferably with Ross pointing somewhere.
+		- Hydropothecary: the "inspired by nature" paragraph is about the crafting of the mark, but is paired with a product mockup. this is dumb. 	
+		- SuzyQ: sweet swag section is about t-shirts, but t-shirt picture is down at the bottom
+		- SuzyQ packaging: can we use a mockup of the box instead of the blueprint? it's not super easy to visual what's happening with this image.
+
+
+Media query settings
+	- the header is needs to be fixed to the top
+	- the menu box should be smaller
+	- Fix the size and alignment of the logo
+	- Make smaller headlines for mobile

@@ -1,0 +1,55 @@
+---
+layout: post
+title:  Union 613
+date:   2014-07-06 09:30:32
+categories: project
+service: Web
+image: project-union-613-01.jpg 
+---
+<div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h2>Union 613</h2>
+            <h3>Bad ass reputation</h3>
+            <p>
+            Since it opened in 2012, Union613 has been known as one of the best places in the city to grab a drink or dinner. But the restaurant serves up more than Southern-style grits and bourbon—it serves its own brand of nefarious cool. Union613 needed a website and marketing  collateral as  original as the restaurant itself. 
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <a href="http://union613.ca/" target="_blank"><img src="{{ "/img/project-union-613-01.jpg" | prepend: site.baseurl }}" alt=""></a>
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6" >
+            <a href="http://www.cbc.ca/news/canada/ottawa/the-pros-and-cons-of-communal-eating-1.2552638" target="_blank"><img src="{{ "/img/project-union-613-05.jpg" | prepend: site.baseurl }}" alt=""></a>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Bad reviews</h3>
+            <p>
+            When the restaurant’s owner told us he wanted to print bad yelp reviews and hand them out to diners, we thought he was crazy. And we loved it. We collected bad online reviews, laid them out beautifully on postcards, and paired them with a snarky quote: "There are many who dare not kill themselves for fear of what the neighbours will say." The cards were presented with each bill, to customers’ surprise and delight. 
+            </p>
+            <p><a href="http://www.cbc.ca/news/canada/ottawa/the-pros-and-cons-of-communal-eating-1.2552638" target="_blank"></a>Bad review cards on CBC</p>
+          </div>
+        </div>
+           <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3> Photography and illustrations</h3>
+            <p>
+             The restaurant’s walls are covered with murals; its website should be too. We hand-drew illustrations and weaved them into the background of the website so that every page had an artistic touch. In addition, we took custom food photography of Union613’s to gets mouths watering.   
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-union-613-03.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6" >
+            <a href="http://union613.ca/" target="_blank"><img src="{{ "/img/project-union-613-02.jpg" | prepend: site.baseurl }}" alt=""></a>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>An online presence</h3>
+            <p>
+            Union 613 didn’t just need an updated website. It needed a digital experience that was as resonant and inventive as the restaurant's real-world atmosphere. We closed the loop by making Union613’s homepage a collage of Instagram photos of the restaurant. The page is updated with every new #union613-tagged Instagram photo, producing a live feed of the Union community. Whether online or in house, foodies can experience the delicious cool of Union613.
+            </p>
+            <p>Visit the Union site <a href="http://union613.ca/" target="_blank">http://union613.ca/</a>
+          </div>
+        </div> 

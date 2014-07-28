@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "Beyond The Pale"
+date:   2014-07-02 09:30:32
+categories: project
+service: Web
+image: project-beyond-the-pale-01.jpg 
+---
+<div class="row project">
+	<div class="col-xs-12 col-sm-6 col-md-6">
+
+		<h2>Beyond the Pale</h2>
+		<h3>Understanding a Brand</h3>
+		<p>
+            This Ottawa-based microbrewery became a favourite in the local craft beer scene after they opened up shop in the fall of 2012. Their dozens of innovative recipes have knocked down expectations of what beer “should” taste like, but there is more to the brewery than its beer. They have a story, and they needed help telling it.
+            </p>
+
+          </div>
+
+
+
+          <div class="col-xs-12 col-sm-6 col-md-6">
+          	<img src="{{ "/img/project-beyond-the-pale-01.gif" | prepend: site.baseurl }}" alt="">
+          </div>
+
+</div>
+
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6" >
+            <iframe width="100%" height="500" src="//www.youtube.com/embed/LFpd1vV7_Jk" frameborder="0" allowfullscreen></iframe>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Motion Graphic</h3>
+            <p>
+            What makes craft beer better? For starters it is made on a small scale by people who care about beer. We wanted to bring Beyond the Pale’s customers even closer to the product they love by showing how it is made. Our How We Brew video takes you through the process from grains to growler.
+            </p>
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Interactive, Media Rich Website</h3>
+            <p>
+            For the brewers at Beyond the Pale beer is a labour of love, but their website didn’t reflect this. We took that glorious moment, when the beer rushes from the growler to the glass and put that front and center. The new site is a visual experience that keeps the focus on what is most important, the beer.
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-beyond-the-pale-06.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <img src="{{ "/img/project-beyond-the-pale-04.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3>Growth</h3>
+            <p>
+            Most microbreweries sell growlers, but in Ottawa a growler of beer has become synonymous with Beyond the Pale. From the beer that greets you as the website loads to the growler Rocket Van, Jackpine has helped Beyond the Pale make its mark across Ottawa. 
+            </p>
+          </div>
+        </div>
+        <div class="row project">
+          <div class="col-xs-12 col-sm-12 col-md-12">
+            <img src="{{ "/img/project-beyond-the-pale-07.jpg" | prepend: site.baseurl }}" alt="">
+          </div>
+        </div>

@@ -1,0 +1,15 @@
+# Site settings
+title: JACKPINE | Design &amp; Strategy
+email: your-email@domain.com
+description: "We are a design and strategy firm in Ottawa, Canada. We like dim sum, weirdos and the internet. We have a lot of fun in our studio, but mostly we work really hard to help great companies tell their stories and reach their goals."
+baseurl: ""
+url: "http://jackpine.co"
+twitter_username: JackpineCo
+github_username:  JackpineStudio
+
+# Build settings
+markdown: kramdown
+textile_ext:   textile
+baseurl: /jekyll/_site
+relative_permalinks: false
+permalink: pretty
